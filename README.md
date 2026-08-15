@@ -1,4 +1,3 @@
----
 <!-- ===================================================== -->
 <!--                    PROFILE HEADER                     -->
 <!-- ===================================================== -->
@@ -11,7 +10,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=0EA5E9&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Designing+Backend+Systems+%26+REST+APIs;Exploring+AI%2C+LLMs+%26+Intelligent+Applications;Turning+Ideas+Into+Real+Products;Always+Learning+%26+Building" alt="Typing Animation" />
 
-<br /><br />
+<br />
+<br />
 
 <a href="https://github.com/Rishi9822">
 <img src="https://img.shields.io/badge/GitHub-Rishi9822-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -35,7 +35,7 @@ Hi! I'm **Rishi Patel**, a Computer Science Engineering student and developer in
 
 My primary focus is **Full-Stack and Backend Development**, while I'm also exploring **AI/ML, LLMs and intelligent applications**.
 
-```text
+
 🎓 Computer Science Engineering Student
 💻 Full-Stack Developer with a Backend focus
 ⚙️ Building REST APIs & backend systems
@@ -44,7 +44,7 @@ My primary focus is **Full-Stack and Backend Development**, while I'm also explo
 🧠 Learning System Design & scalable architecture
 🚀 Interested in AI-powered software products
 🤝 Open to collaboration and exciting opportunities
----
+
 
 > I enjoy taking a product from **idea → architecture → development → deployment**.
 
@@ -58,25 +58,29 @@ My primary focus is **Full-Stack and Backend Development**, while I'm also explo
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,redux" />
 
-<br /><br />
+<br />
+<br />
 
 ### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java" />
 
-<br /><br />
+<br />
+<br />
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
 
-<br /><br />
+<br />
+<br />
 
 ### 🤖 AI / ML
 
 <img src="https://skillicons.dev/icons?i=python" />
 
-<br /><br />
+<br />
+<br />
 
 ### 🔧 Tools & Platforms
 
@@ -212,10 +216,20 @@ I'm particularly interested in combining **software engineering + AI** to build 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishi9822/Rishi9822/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishi9822/Rishi9822/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rishi9822/Rishi9822/output/github-snake.svg" />
-</picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rishi9822/Rishi9822/output/github-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Rishi9822/Rishi9822/output/github-snake.svg"
+/>
+
+<img
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/Rishi9822/Rishi9822/output/github-snake.svg"
+/> </picture>
 
 </div>
 
@@ -259,7 +273,8 @@ I'm particularly interested in combining **software engineering + AI** to build 
 
 <img src="https://komarev.com/ghpvc/?username=Rishi9822&label=Profile%20Views&style=for-the-badge" />
 
-<br /><br />
+<br />
+<br />
 
 ⭐ If you find my projects interesting, consider giving them a star!
 
