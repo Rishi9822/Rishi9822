@@ -1,25 +1,222 @@
-# 💫 About Me:
-Hello 👋🏼, I'm Rishi Patel<br>👯 looking to make new connections<br>🌱 I’m currently learning Backened development
+````markdown
+<!-- ===================== HEADER ===================== -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishi_patel.31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-patel-091226291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishipatel9822@gmail.com) 
+# 👋 Hey, I'm Rishi Patel
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rishi9822&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rishi9822&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi9822&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Full-Stack Developer • Backend Developer
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rishi9822&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Backend+%26+API+Development;Turning+Ideas+Into+Real+Products;Always+Learning+Something+New" alt="Typing SVG" />
 
+<p>
+  <a href="https://github.com/Rishi9822">
+    <img src="https://img.shields.io/github/followers/Rishi9822?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rishi9822?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Rishi9822?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rishipatel9822@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rishi9822&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
+<!-- ===================== ABOUT ===================== -->
+
+## 🧑‍💻 About Me
+
+```text
+🎓 Computer Science Engineering Student
+💻 Full-Stack Developer focused on Backend & APIs
+🤖 Exploring AI/ML, LLMs and intelligent applications
+🏗️ Building real-world products using MERN + Python
+🔧 Interested in scalable systems, automation and problem solving
+🌱 Currently strengthening Backend, AI & System Design
+🤝 Open to collaboration, internships and exciting projects
+````
+
+I enjoy building applications from **idea → architecture → development → deployment**.
+
+My current focus is on combining **full-stack engineering with AI** to build practical and intelligent applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rishi9822&icon=7&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ What I Work With
+
+<div align="center">
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,redux" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+### 🛠️ Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,npm,bash,vercel,netlify" />
+
+### 🎨 Design
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏠 RoomiPlan — AI-Powered Floor Plan Generator
+
+> A virtual architecture platform for generating and editing residential floor plans.
+
+**Tech:** React • Vite • Node.js • Express • Python • FastAPI • Shapely
+
+* 🏗️ Automated floor-plan generation
+* 📐 Geometry-based room layout generation
+* 🧩 BSP-based spatial subdivision
+* 🖱️ Drag & drop floor-plan editor
+* 📏 Real-world scaling and snap-to-grid
+* 🤖 Python-based layout generation
+* 🔗 MERN + Python architecture
+
+🔗 **[View Project](https://github.com/Rishi9822/eArchitect)**
+
+---
+
+### 📅 TimetablePro — Multi-Tenant SaaS
+
+> A timetable management platform designed for educational institutions.
+
+**Tech:** React • Node.js • Express • MongoDB • Stripe
+
+* 🏫 Multi-tenant institution architecture
+* 👨‍🏫 Teacher & subject management
+* 📚 Class management
+* 🧩 Drag & drop timetable builder
+* ⚠️ Automatic conflict detection
+* 💳 Subscription & billing workflows
+* 🔐 Authentication & authorization
+* 🔌 15+ REST APIs
+
+🔗 **[View Project](https://github.com/Rishi9822/TimeTable_Organizer)**
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+```text
+Backend Engineering
+       ↓
+REST APIs & Authentication
+       ↓
+System Design
+       ↓
+AI / ML
+       ↓
+LLMs & AI Applications
+       ↓
+AI Agents & Automation
+```
+
+</div>
+
+I'm particularly interested in learning how **AI can be integrated into real-world software products**, rather than treating AI as a standalone technology.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishi9822&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi9822&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi9822&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rishi9822/Rishi9822/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rishi9822&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rishi-patel-091226291">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:rishipatel9822@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/rishi_patel.31">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/Rishi9822">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Learn. Break. Fix. Repeat."
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Rishi9822&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
+```
