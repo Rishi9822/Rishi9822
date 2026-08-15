@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:0ea5e9,100:06b6d4&section=header&text=Rishi%20Patel&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:0ea5e9,100:06b6d4&section=header&text=Rishi%20Patel&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
 <br />
 
@@ -29,28 +29,68 @@
 
 ---
 
-# 👨‍💻 About Me
+<h2>
+  <img src="https://api.iconify.design/lucide/user-round.svg?color=%230EA5E9" width="26" height="26">
+  About Me
+</h2>
 
-Hi! I'm **Rishi Patel**, a Computer Science Engineering student and developer interested in building **real-world software products**.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-My primary focus is **Full-Stack and Backend Development**, while I'm also exploring **AI/ML, LLMs and intelligent applications**.
+### 👋 Hey there!
 
+I'm **Rishi Patel**, a Computer Science Engineering student and developer who enjoys turning ideas into **real, working products**.
 
-🎓 Computer Science Engineering Student
-💻 Full-Stack Developer with a Backend focus
-⚙️ Building REST APIs & backend systems
-🤖 Exploring AI/ML, LLMs & AI applications
-🏗️ Building products using MERN + Python
-🧠 Learning System Design & scalable architecture
-🚀 Interested in AI-powered software products
-🤝 Open to collaboration and exciting opportunities
+My journey started with web development and gradually moved toward **backend engineering, system design, and AI-powered applications**.
 
+I enjoy working across the stack — from building polished interfaces to designing **REST APIs, database architectures, authentication systems, and intelligent backend services**.
 
-> I enjoy taking a product from **idea → architecture → development → deployment**.
+Currently, I'm focused on becoming a stronger **Backend Engineer** while exploring how **AI, LLMs, and automation** can be integrated into real-world software.
+
+<br>
+
+> **Build with purpose. Learn continuously. Engineer better.**
+
+</td>
+
+<td width="40%" valign="top">
+
+###  What I'm Focused On
+
+```text
+┌─────────────────────────────┐
+│    Backend Engineering      │
+│    REST APIs & Services     │
+│    Database Architecture    │
+│    System Design            │
+│    AI & LLM Applications    │
+│    Product Development      │
+└─────────────────────────────┘
+````
+
+###  My Direction
+
+**Full-Stack → Backend → AI Engineering**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+` Build`  •  ` Engineer`  •  ` Learn`  •  ` Experiment`  •  ` Ship`
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+<h2>
+  <img src="https://api.iconify.design/lucide/code-2.svg?color=%230EA5E9" width="26" height="26">
+  Tech Stack
+</h2>
 
 <div align="center">
 
@@ -90,26 +130,29 @@ My primary focus is **Full-Stack and Backend Development**, while I'm also explo
 
 ---
 
-# 🚀 Featured Projects
+<h2>
+  <img src="https://api.iconify.design/lucide/rocket.svg?color=%230EA5E9" width="26" height="26">
+  Featured Projects
+</h2>
 
-## 🏠 eArchitect
+##  eArchitect
 
 ### AI-Powered Floor Plan Development Software
 
 A full-stack architectural application for creating and generating residential floor plans using **MERN + Python**.
 
-### 🔥 Highlights
+###  Highlights
 
-* 🏗️ Automated floor-plan generation
-* 📐 Geometry-based room layout generation
-* 🧩 BSP-based spatial subdivision
-* 🖱️ Drag & drop floor-plan editor
-* 📏 Real-world scaling & snap-to-grid
-* 🔷 Irregular polygon plot support
-* 🐍 Python-based layout generation
-* ⚡ FastAPI integration
-* 🧱 Wall graph generation
-* 🔗 MERN + Python architecture
+*  Automated floor-plan generation
+*  Geometry-based room layout generation
+*  BSP-based spatial subdivision
+*  Drag & drop floor-plan editor
+*  Real-world scaling & snap-to-grid
+*  Irregular polygon plot support
+*  Python-based layout generation
+*  FastAPI integration
+*  Wall graph generation
+*  MERN + Python architecture
 
 **Tech Stack**
 
@@ -125,24 +168,24 @@ A full-stack architectural application for creating and generating residential f
 
 ---
 
-## 📅 TimeTable Organizer
+##  TimeTable Organizer
 
 ### Multi-Tenant Timetable Management SaaS
 
 A timetable management platform designed for educational institutions with scheduling, conflict detection and subscription workflows.
 
-### 🔥 Highlights
+###  Highlights
 
-* 🏫 Multi-tenant architecture
-* 👨‍🏫 Teacher management
-* 📚 Subject & class management
-* 🧩 Drag & drop timetable builder
-* ⚠️ Automatic timetable conflict detection
-* 🔐 Authentication & authorization
-* 💳 Stripe subscription workflows
-* 🔌 15+ REST APIs
-* 📊 Institution management
-* ⚙️ Backend-driven scheduling system
+*  Multi-tenant architecture
+*  Teacher management
+*  Subject & class management
+*  Drag & drop timetable builder
+*  Automatic timetable conflict detection
+*  Authentication & authorization
+*  Stripe subscription workflows
+*  15+ REST APIs
+*  Institution management
+*  Backend-driven scheduling system
 
 **Tech Stack**
 
@@ -158,7 +201,10 @@ A timetable management platform designed for educational institutions with sched
 
 ---
 
-# 🧠 Currently Exploring
+<h2>
+  <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%230EA5E9" width="26" height="26">
+  Currently Exploring
+</h2>
 
 <div align="center">
 
@@ -190,14 +236,24 @@ Backend Engineering
 I'm particularly interested in combining **software engineering + AI** to build useful products rather than treating AI as a standalone technology.
 
 ---
-
-# 📊 GitHub Analytics
+<h2>
+  <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%230EA5E9" width="26" height="26">
+  GitHub Analytics
+</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishi9822&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<a href="https://github.com/Rishi9822">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Rishi9822&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  />
+</a>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi9822&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Rishi9822">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi9822&theme=tokyonight&hide_border=true" />
+
+</a>
 
 </div>
 
@@ -205,7 +261,12 @@ I'm particularly interested in combining **software engineering + AI** to build 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi9822&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<a href="https://github.com/Rishi9822">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishi9822&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
+</a>
 
 </div>
 
@@ -235,16 +296,6 @@ I'm particularly interested in combining **software engineering + AI** to build 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rishi9822&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
 # 🌐 Let's Connect
 
 <div align="center">
@@ -267,7 +318,7 @@ I'm particularly interested in combining **software engineering + AI** to build 
 
 <div align="center">
 
-### 💡 Build. Learn. Break. Fix. Repeat.
+###  Build. Learn. Break. Fix. Repeat.
 
 <br />
 
@@ -279,4 +330,3 @@ I'm particularly interested in combining **software engineering + AI** to build 
 ⭐ If you find my projects interesting, consider giving them a star!
 
 </div>
-```
